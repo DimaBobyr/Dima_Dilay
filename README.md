@@ -1,3 +1,4 @@
 - 👋 Hi, wir are Dilay Validator
-- 👀 Wir interested in ...crypto
-- 💞️ I’m looking to collaborate with other validators, projects and active participants
+- 👀 Wir interested in Cosmos Ecosystem 
+- 💞️ Wir are looking to collaborate with other validators, projects and active participants
+- Full time enthusiasts
