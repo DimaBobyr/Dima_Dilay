@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @SputnikValidator
-- 👀 I’m interested in ...crypto
-- 🌱 I’m currently learning ..deutsch.
-- 💞️ I’m looking to collaborate on ..ukrainians.
-- 📫 How to reach me ...
-
-
-
+- 👋 Hi, wir are Dilay Validator
+- 👀 Wir interested in ...crypto
+- 💞️ I’m looking to collaborate with other validators, projects and active participants
